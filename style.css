@@ -1,0 +1,47 @@
+@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css); 
+*{
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
+
+
+.fixed {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 200px;
+  background-color: white;
+}
+
+
+
+h1{
+  color:red;
+}
+
+
+
+#來個標題{
+  color: pink;font-size: 100px;
+}
+
+.s1{
+  color: brown;
+  background-image:url("back.jpg");
+}
+
+
+.background-yellow{
+  background-color: #FFEE99
+  }
+
+
+ .s2{
+   font-size: 30px;
+   background-image: url("bba.jpg");
+   height: 400px;
+   width: 500px;
+   padding-left: 100px;
+   padding-top: 80px;
+   overflow: hidden;
+ }
